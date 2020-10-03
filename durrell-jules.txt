@@ -136,3 +136,4 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
             git commit -m 'message...'
             git push origin -u fname-lname
             Pull Request
+            Submit Pull request link to canvas
