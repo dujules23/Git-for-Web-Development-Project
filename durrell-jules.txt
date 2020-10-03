@@ -3,7 +3,10 @@ https://codepen.io/dujules23/pen/eYZqpaM?editors=1100
 Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
 
     1. What is Semantic HTML? 
+            Html that reinforces the meaning of the content.
     2. What is HTML used for? 
+            It's a markup language that web browsers use to interpret and compose text.
+            
     3. What is an attribute and where do we put it? 
     4. What is the h1 tag used for? How many times should I use it on a page?
     5. Name two tags that have required attributes
